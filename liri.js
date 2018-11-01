@@ -88,11 +88,11 @@ logThis = function(){
        return  console.log('no search made')
     }
     
-     doIt.appendFile('log.txt', search +',', function(err, data){
+     doIt.appendcleFile('log.txt', search +',', function(err, data){
          if (err){
              console.log(error)
          }
-         console.log(data + 'has been logged')
+         
      })
 
      doIt.readFile('log.txt', 'utf8', function(err, data){
