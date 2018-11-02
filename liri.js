@@ -92,7 +92,7 @@ logThis = function(){
          if (err){
              console.log(error)
          }
-         console.log(data + 'has been logged')
+        // console.log(data + 'has been logged')
      })
       doIt.readFile('log.txt', 'utf8', function(err, data){
          if(err){

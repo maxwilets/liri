@@ -48,4 +48,4 @@ The search terms were pulled and stored like this example1,example2 so they coul
 
 
 Link to screencaps of examples:
-https://docs.google.com/document/d/1Lu5BqCkgPLFQZF4OkK888tQsxmarnyUkXB_5aJ4zCgg/edit?usp=sharing
+https://drive.google.com/file/d/1DDM0VQozQXSypVgp2HGbFTfSruIEx0Fi/view
